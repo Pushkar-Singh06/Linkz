@@ -7,3 +7,5 @@
 ## Schedule 
 ## Monday
 - 12pm [Communicating Across Context](https://learn.georgebrown.ca/d2l/home/324949)
+- 4pm [COMP1236](https://learn.georgebrown.ca/d2l/home/337951)
+- 6pm [COMP1234](https://learn.georgebrown.ca/d2l/home/342901)
