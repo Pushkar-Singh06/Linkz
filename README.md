@@ -6,4 +6,4 @@
 - [Lecture summaries](comp1238.md) 
 ## Schedule 
 ## Monday
-- [12pm](COMP1234)
+- 12pm [Communicating Across Context](https://learn.georgebrown.ca/d2l/home/324949)
